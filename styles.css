@@ -93,3 +93,28 @@ h2 {
 .info {
   padding: 10px 0 0 5px;
 }
+
+.formrow {
+  margin-top: 30px;
+  padding: 0px 15px;
+}
+
+input {
+  font-size: 16px;
+}
+
+.info label,
+.info input {
+  display: inline-block;
+  text-align: right;
+}
+
+.info input {
+  width: 50%;
+  text-align: left;
+}
+
+.info label {
+  width: 10%;
+  min-width: 55px;
+}
